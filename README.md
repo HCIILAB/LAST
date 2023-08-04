@@ -52,10 +52,15 @@ Download the dataset from the official website:
 Some other excellent open-sourced HMER algorithms can be found here:
 
 [WAP](https://github.com/JianshuZhang/WAP)[PR'2017]
+
 [DWAP-TD](https://github.com/JianshuZhang/TreeDecoder)[ICML'2020]
+
 [BTTR](https://github.com/Green-Wood/BTTR)[ICDAR'2021]
+
 [ABM](https://github.com/XH-B/ABM)[AAAI'2022]
+
 [SAN](https://github.com/tal-tech/SAN)[CVPR'2022]
+
 [CoMER](https://github.com/Green-Wood/CoMER)[ECCV'2022]
-[CoMER](https://github.com/Green-Wood/CoMER)[ECCV'2022]
+
 [CAN](https://github.com/LBH1024/CAN)[ECCV'2022]
