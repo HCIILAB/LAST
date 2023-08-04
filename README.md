@@ -47,15 +47,17 @@ M2E
 Download the dataset from the official website: 
 ```
 
-## Recommendation
+## Related Work
 
-Some other excellent open-sourced HMER algorithms can be found here:
+Some awesome open-sourced HMER works are listed below:
 
 [WAP](https://github.com/JianshuZhang/WAP)[PR'2017]
 
 [DWAP-TD](https://github.com/JianshuZhang/TreeDecoder)[ICML'2020]
 
 [BTTR](https://github.com/Green-Wood/BTTR)[ICDAR'2021]
+
+[TSDNet](https://github.com/zshhans/TSDNet)[ACM MM'2022]
 
 [ABM](https://github.com/XH-B/ABM)[AAAI'2022]
 
