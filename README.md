@@ -1,7 +1,9 @@
 <div align="center">    
 
 # Read Ten Lines at One Glance: Line-Aware Semi-Autoregressive Transformer for Multi-Line Handwritten Mathematical Expression Recognition
-[![Python 3.7 Badge](https://img.shields.io/badge/Python-3.7-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-370%2F)](https://www.python.org/downloads/release/python-370/) [![PyTorch 1.8.1 Badge](https://img.shields.io/badge/PyTorch-1.8.1-brightgreen?link=https%3A%2F%2Fpytorch.org%2F)](https://pytorch.org/) [![PyTorch Lightning Badge](https://img.shields.io/badge/PyTorch%20Lightning-1.4.9-orange?link=https%3A%2F%2Fwww.pytorchlightning.ai%2F)](https://www.pytorchlightning.ai/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-WGeong-blueviolet?logo=github)](https://github.com/W-Geong) [![GitHub Badge](https://img.shields.io/badge/GitHub-DLVC-success?logo=github)](https://github.com/HCIILAB)
+
+[![Python 3.7 Badge](https://img.shields.io/badge/Python-3.7-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-370%2F)](https://www.python.org/downloads/release/python-370/) [![PyTorch 1.8.1 Badge](https://img.shields.io/badge/PyTorch-1.8.1-yellowgreen?link=https%3A%2F%2Fpytorch.org%2F)](https://pytorch.org/) [![PyTorch Lightning Badge](https://img.shields.io/badge/PyTorch%20Lightning-1.4.9-orange?link=https%3A%2F%2Fwww.pytorchlightning.ai%2F)](https://www.pytorchlightning.ai/)
 </div>
 
 
