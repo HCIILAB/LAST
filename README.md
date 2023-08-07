@@ -50,18 +50,19 @@ M²E Dataset is available at: https://www.modelscope.cn/datasets/Wente47/M2E
 
 Some awesome open-sourced HMER works are listed below:
 
-[WAP](https://github.com/JianshuZhang/WAP) [![PR Badge](https://img.shields.io/badge/PR-2017-brightgreen)](http://XXX)
+[WAP](https://github.com/JianshuZhang/WAP) [![PR Badge](https://img.shields.io/badge/PR-2017-brightgreen)](https://www.sciencedirect.com/science/article/abs/pii/S0031320317302376)
 
-[DWAP-TD](https://github.com/JianshuZhang/TreeDecoder) [![ICML Badge](https://img.shields.io/badge/ICML-2020-green)](http://XXX)
+[DWAP-TD](https://github.com/JianshuZhang/TreeDecoder) [![ICML Badge](https://img.shields.io/badge/ICML-2020-green)](https://proceedings.mlr.press/v119/zhang20g.html)
 
-[BTTR](https://github.com/Green-Wood/BTTR) [![ICDAR Badge](https://img.shields.io/badge/ICDAR-2021-yellowgreen)](http://XXX)
+[BTTR](https://github.com/Green-Wood/BTTR) [![ICDAR Badge](https://img.shields.io/badge/ICDAR-2021-yellowgreen)](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_37)
 
-[TSDNet](https://github.com/zshhans/TSDNet) [![ACM Badge](https://img.shields.io/badge/ACM_MM-2022-yellow)](http://XXX)
+[TSDNet](https://github.com/zshhans/TSDNet) [![ACM Badge](https://img.shields.io/badge/ACM_MM-2022-yellow)](https://dl.acm.org/doi/10.1145/3503161.3548424)
 
-[ABM](https://github.com/XH-B/ABM) [![AAAI Badge](https://img.shields.io/badge/AAAI-2022-yellow)](http://XXX)
+[ABM](https://github.com/XH-B/ABM) [![AAAI Badge](https://img.shields.io/badge/AAAI-2022-yellow)](https://ojs.aaai.org/index.php/AAAI/article/view/19885)
 
-[SAN](https://github.com/tal-tech/SAN) [![CVPR Badge](https://img.shields.io/badge/CVPR-2022-orange)](http://XXX)
+[SAN](https://github.com/tal-tech/SAN) [![CVPR Badge](https://img.shields.io/badge/CVPR-2022-orange)](https://openaccess.thecvf.com/content/CVPR2022/html/Yuan_Syntax-Aware_Network_for_Handwritten_Mathematical_Expression_Recognition_CVPR_2022_paper.html)
 
-[CoMER](https://github.com/Green-Wood/CoMER) [![ECCV Badge](https://img.shields.io/badge/ECCV-2022-red)](http://XXX)
+[CoMER](https://github.com/Green-Wood/CoMER) [![ECCV Badge](https://img.shields.io/badge/ECCV-2022-red)](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_23)
 
-[CAN](https://github.com/LBH1024/CAN) [![ECCV Badge](https://img.shields.io/badge/ECCV-2022-blue)](http://XXX)
+[CAN](https://github.com/LBH1024/CAN) [![ECCV Badge](https://img.shields.io/badge/ECCV-2022-blue)](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_12)
+
